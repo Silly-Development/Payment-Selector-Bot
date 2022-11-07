@@ -1,2 +1,2 @@
-# discord-billing-bot
+# Discord Payment Selector Bot
 Discord Payment Selector Bot
