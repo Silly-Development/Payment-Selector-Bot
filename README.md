@@ -1,6 +1,9 @@
 # Discord Payment Selector Bot
 A simple discord bot made for selecting preferred payment method
 
+# Contributing:
+Make a pull request and we will check over it!
+
 # Installation
 1. Install [Node.js 18](https://nodejs.org/)
 2. Run ```npm i ```
