@@ -9,5 +9,6 @@ A simple discord bot made for selecting preferred payment method
 Enjoy!
 
 # Links
-[Free Hosting](https://client.sillydev.co.uk)
-[Discord](https://discord.gg/WeQ3TpdfZM)
+- [Free Hosting](https://client.sillydev.co.uk)
+- [Discord](https://discord.gg/WeQ3TpdfZM)
+- support@sillydev.co.uk
