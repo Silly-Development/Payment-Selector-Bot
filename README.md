@@ -2,7 +2,7 @@
 A simple discord bot made for selecting preferred payment method
 
 # Installation
-First install [node.js version 18](https://nodejs.org/)
+First install [Node.js 18](https://nodejs.org/)
 Once you have install run ```npm i ```
 Fill in the config file!
 Now run the bot using ```node .```
