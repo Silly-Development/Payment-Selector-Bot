@@ -1,5 +1,5 @@
 # Discord Payment Selector Bot
-A simple discord bot made for selecting preferred payment method. Lots of this bot uses basic code that has been taken from the discord.js docs 
+A simple discord bot made for selecting preferred payment method. Not Very Advanced.
 # Contributing:
 Make a pull request and we will check over it!
 
