@@ -1,6 +1,6 @@
 // Get packages and files
 const config = require('./config.json');
-const load_slash_commands = require('./deploy-commands.js')
+const load_slash_commands = require('./events/deploy-commands.js')
 const { Client, Collection, EmbedBuilder, ActionRowBuilder, Events, SelectMenuBuilder, GatewayIntentBits } = require('discord.js');
 const fs = require('node:fs');
 const path = require('node:path');
