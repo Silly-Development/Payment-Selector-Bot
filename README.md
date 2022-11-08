@@ -10,3 +10,4 @@ Enjoy!
 
 # Links
 [Free Hosting](https://client.sillydev.co.uk)
+[Discord](https://discord.gg/WeQ3TpdfZM)
