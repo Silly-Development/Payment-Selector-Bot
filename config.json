@@ -1,5 +1,5 @@
 {
 	"token": "discord bot token here",
 	"clientId": "your discord bots id here",
-	"guildId": "the id of the discord server you want the bot to work in"
+	"guildId": "the id of the discord server you want the bot slash commands to be made in"
 }
