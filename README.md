@@ -11,6 +11,6 @@ Make a pull request and we will check over it! Add anything you want (within rea
 Enjoy!
 
 # Links
-- [Free Hosting](https://client.sillydev.co.uk)
+- [Free Hosting](https://panel.sillydev.co.uk)
 - [Discord](https://discord.gg/WeQ3TpdfZM)
 - support@sillydev.co.uk
